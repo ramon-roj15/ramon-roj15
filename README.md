@@ -21,7 +21,7 @@
 - MATLAB
 
 **Nivel principiante**
-- ChatGPT como herramienta de apoyo
+- ChatGPT, Claude AI, Gemini, NotebookLM
 
 ---
 
@@ -32,8 +32,6 @@
 | Español | Nativo                    | — |
 | Inglés  | C1                        | First Certificate (2013), Proficiency (2019) |
 | Francés | B2                        | DELF – Alliance Française (2014) |
-
-📚 Educación bilingüe en francés (C.E.I.P. Madre de la Luz, I.E.S. Alborán) e inmersiones en Reino Unido e Irlanda (Chichester, Oxford, Cambridge, Dublín).
 
 ---
 
@@ -49,4 +47,4 @@
 ### 📫 Contacto
 
 - ✉️ ramonrojasparra@gmail.com
-- 📱 +34 678 044 695
+
